@@ -10,7 +10,7 @@ body{
 .card{
     width: 90%;
     max-width: 470px;
-    background: linear-gradient(135deg, #00feba, #5b548a);
+    background: conic-gradient(from 90deg at bottom right, cyan, rebeccapurple);
     color: #fff;
     margin: 100px auto 0;
     border-radius: 20px;
